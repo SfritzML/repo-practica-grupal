@@ -1,1 +1,4 @@
 Este es un ejercicio grupal del manejo de git en equipo
+
+
+Parte 2
