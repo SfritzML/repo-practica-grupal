@@ -1,0 +1,1 @@
+Este también es un ejercicio del manejo de git en equipo
