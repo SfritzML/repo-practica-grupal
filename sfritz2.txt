@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 
-=======
 texto2texto modificado por sebas2
->>>>>>> 3c99759 (update file sfritz2.txt)
+esto es un texto modificado
